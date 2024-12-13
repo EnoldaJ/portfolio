@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a dynamic professional with over a decade of 
 
 ## 📫 Let's Connect!
 - **Email**: enoldaj@gmail.com  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **Portfolio**: [Coming Soon!]
+- **LinkedIn**: [htttp://www.linkedin.com/in/enoldajoseph](#)  
+- **Portfolio**: #(https://github.com/EnoldaJ/portfolio)
 
 ---
